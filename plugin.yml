@@ -1,0 +1,10 @@
+name: Basketball
+main: com.DailyLove.basketball.Basketball
+version: 1.5.0
+authors: [DailyLove]
+description: Basketball plugin
+
+commands:
+  bb:
+    description: Get a basketball
+    usage: /<command>
