@@ -1,0 +1,7 @@
+version: 1.5.0
+
+Item: 332
+Item name: '&5Basketball'
+Item lore:
+  - Throw it in
+  - the hoop.
